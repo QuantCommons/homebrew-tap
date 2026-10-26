@@ -1,6 +1,6 @@
 cask "easycompare" do
-  version "1.1.0"
-  sha256 "ce9b0ac8a359d98acac775fefe01c282dbfa103b0a962f6f8e4effa665281ad8"
+  version "1.2.0"
+  sha256 "43a428ca12964f7c1b622335766e8005f98bdce891bc004c057a5e1c397859de"
 
   url "https://storage.googleapis.com/easycompare-media/mac/EasyCompare-#{version}.dmg"
   name "EasyCompare"
